@@ -145,7 +145,7 @@ border-radius: 2px;
     max-width: 99vw;
     background-image: url(/img/stars.png);
     /* border-top: 5px solid black; */
-    border-bottom: 50px solid rgb(15, 37, 44);
+    /* border-bottom: 50px solid rgb(15, 37, 44); */
 }
 
 #about h1{
@@ -268,7 +268,7 @@ max-height: 16px;
     max-width:90%;
     height: 12px;
     border-radius: 20px;
-    box-shadow: 0px 2px 4px rgb(104, 104, 104);
+    /* box-shadow: 0px 2px 4px rgb(104, 104, 104);  `1 */
 }
 
 .rapidbar{
@@ -292,7 +292,7 @@ max-height: 16px;
     max-width:95%;
     height: 12px;
     border-radius: 20px;
-    box-shadow: 0px 2px 4px rgb(104, 104, 104);
+    /* box-shadow: 0px 2px 4px rgb(104, 104, 104); */
 }
 
 .uibar{
@@ -316,7 +316,7 @@ max-height: 16px;
     max-width:80%;
     height: 12px;
     border-radius: 20px;
-    box-shadow: 0px 2px 4px rgb(104, 104, 104);
+    /* box-shadow: 0px 2px 4px rgb(104, 104, 104); */
 }
 
 .productionbar{
@@ -340,7 +340,7 @@ max-height: 16px;
     max-width:85%;
     height: 12px;
     border-radius: 20px;
-    box-shadow: 0px 2px 4px rgb(104, 104, 104);
+    /* box-shadow: 0px 2px 4px rgb(104, 104, 104); */
 }
 
 @keyframes stretch90{
